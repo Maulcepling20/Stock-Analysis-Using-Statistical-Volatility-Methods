@@ -32,20 +32,19 @@ Data saham yang dianalisis berasal dari Bursa Efek Indonesia untuk perusahaan be
 ```
 
 ## Teknologi yang Digunakan
-- **Python** (NumPy, Pandas, Matplotlib, Seaborn, yfinance)
-- **Jupyter Notebook** (untuk eksplorasi data)
-- **VS Code** (sebagai editor utama)
+- **Python** (NumPy, Pandas, arch)
+- **VS Code atau google colab** (sebagai editor utama)
 
 ## Cara Menjalankan Analisis
 1. Pastikan telah menginstal dependensi yang dibutuhkan:
    ```bash
-   pip install numpy pandas matplotlib seaborn yfinance
+   pip install numpy pandas arch
    ```
-2. Jalankan notebook di folder `notebooks` untuk eksplorasi dan analisis lebih lanjut.
-3. Atau, jalankan skrip Python yang ada di folder `scripts` untuk melakukan analisis otomatis:
-   ```bash
-   python scripts/analisis_volatilitas.py
+2. Upload data yang dibutuhkan pada folder yang sama dengan skript Python (direkomendasikan) di software VS Code atau Google Colab
    ```
+3. Jalankan skrip Python yang ada di folder `scripts` untuk melakukan analisis otomatis, dan untuk nama saham yang ada pada script atau nama file bisa diganti dengan nama saham yang lain menyesuaikan data yang akan dianalisis
+   ```
+4. Untuk menentukan perbandingan nilai Annual Volatility, masukan script yang ada pada folder Results 
 
 ## Hasil Akhir
 Hasil analisis akan menunjukkan saham mana yang memiliki volatilitas tahunan paling rendah, yang dapat dianggap sebagai saham dengan risiko lebih kecil dibandingkan yang lain.
