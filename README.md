@@ -49,9 +49,3 @@ Data saham yang dianalisis berasal dari Bursa Efek Indonesia untuk perusahaan be
 
 ## Hasil Akhir
 Hasil analisis akan menunjukkan saham mana yang memiliki volatilitas tahunan paling rendah, yang dapat dianggap sebagai saham dengan risiko lebih kecil dibandingkan yang lain.
-
-## Kontribusi
-Jika ingin berkontribusi pada proyek ini, silakan lakukan pull request atau ajukan issue di repository ini.
-
----
-📌 **Catatan**: Pastikan data yang digunakan selalu diperbarui agar hasil analisis tetap relevan dengan kondisi pasar terkini.
