@@ -41,4 +41,4 @@ Sampel data saham yang digunakan antara lain:
 4. Untuk menentukan perbandingan nilai Annual Volatility, masukan script yang ada pada folder Results 
 
 ## Hasil Akhir
-Hasil analisis akan menunjukkan saham mana yang memiliki volatilitas tahunan paling rendah, yang dapat dianggap sebagai saham dengan risiko lebih kecil dibandingkan yang lain.
+Hasil analisis akan menunjukkan saham mana yang memiliki volatilitas tahunan paling rendah, yang dapat dianggap sebagai saham dengan risiko lebih kecil dibandingkan yang lain. Gambaran hasil analisis dapat dilihat pada file script python menggunakan Jupyter Notebook atau Google Colab (ipynb).
